@@ -3,7 +3,7 @@ platform: linux
 
 image_resource:
   type: docker-image
-  source: ymedlop/npm-cache-resource 
+  source:  
     repository: node
     tag: latest
 
